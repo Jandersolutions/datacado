@@ -1,3 +1,6 @@
+<img src="https://i.imgur.com/W1ZZjnE.jpg"/>
+
+
 # Datacado
 
 Datacado é um pacote Python para gerar dados fictícios de vendas em formato CSV. Ele utiliza a biblioteca Faker para criar informações de vendas aleatórias, como CPFs, produtos, preços, quantidades, datas e mais. É útil para criar conjuntos de dados simulados para fins de teste, aprendizado de máquina ou análise.
