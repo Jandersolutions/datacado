@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+datacado/__init__.py
+datacado/main.py
+datacado.egg-info/PKG-INFO
+datacado.egg-info/SOURCES.txt
+datacado.egg-info/dependency_links.txt
+datacado.egg-info/requires.txt
+datacado.egg-info/top_level.txt
